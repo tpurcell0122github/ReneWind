@@ -1,2 +1,2 @@
 # ReneWind
-ReneWind operates wind farms. It is facing operational difficulties due to unexpected turbine failures. This project uses machine learning to develop a model to effectively predict component failure, which will give the firm more control overt maintenance and power generation.
+ReneWind operates wind farms. Unexpected turbine failures are presenting operational and financial problems. This project uses machine learning to develop a model to accurately predict component failure, which will give the firm more control over maintenance scheduling, costs and power generation.
